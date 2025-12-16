@@ -67,6 +67,9 @@ Classroom Playlist
 |My Rifle, My Pony, and Me|Ricky Nelson and Dean Martin|from the movie Rio Bravo|
 |It Ain't Over Yet|Rodney Crowell||
 |You Go to My Head|Louis Armstrong and Oscar Peterson||
+|City of New Orleans|Arlo Guthrie||
+|Tupelo Honey|Reina del Cid|now: Elle Cordova|
+
 
 
 
